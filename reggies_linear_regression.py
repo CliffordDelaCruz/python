@@ -1,3 +1,4 @@
+# reggies_linear_regression.py
 # Task 1
 # Write your get_y() function here
 def get_y(m, b, x):
@@ -87,7 +88,7 @@ print(best_m, best_b, smallest_error)
 
 
 
-# Task 13
+# Task 13 - run the function
 get_y(0.4, 1.6, 6)
 
 
