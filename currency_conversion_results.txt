@@ -1,0 +1,4 @@
+Base currency: SGD
+Amount: 600.0 SGD
+600.0 SGD = 25579.31 PHP
+Timestamp: 2024-12-28 18:07:23.100404
