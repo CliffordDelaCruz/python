@@ -1,0 +1,40 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Project Secrets
+# -------------------------
+config.ini
+*.key
+*.secret
+*.pem
+*.crt
+*.token
+
+# Gemini / API keys
+chatgoogleapi/config.ini
+*.json
+
+# -------------------------
+# Streamlit / Cache
+# -------------------------
+.streamlit/
