@@ -6,3 +6,7 @@ This folder have 3 files:
 To setup:
 1. Get API keys at Google AI studio (https://aistudio.google.com/prompts/new_chat). You can do this by going to dashboard and click 'Create API key'.
 2. Apply the key in config.ini.
+for config.ini, i did the following setup:
+[google]
+apikey = Your_key_here
+geminimodel = Your_model_here
